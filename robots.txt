@@ -1,0 +1,46 @@
+User-agent: *
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+User-agent: Yeti
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+User-agent: NaverBot
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+User-agent: Daumoa
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+User-agent: bingbot
+Allow: /
+Disallow: /terms/
+Disallow: /privacy/
+
+Sitemap: https://ilsonmadang.netlify.app/sitemap.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-fast.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-hub.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-1.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-2.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-3.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-4.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-5.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-6.xml
+Sitemap: https://ilsonmadang.netlify.app/sitemap-7.xml
+Sitemap: https://ilsonmadang.netlify.app/rss.xml
