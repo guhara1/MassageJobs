@@ -1,37 +1,23 @@
 User-agent: *
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 User-agent: Yeti
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 User-agent: NaverBot
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 User-agent: Googlebot
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 User-agent: Googlebot-Image
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 User-agent: Daumoa
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 User-agent: bingbot
 Allow: /
-Disallow: /terms/
-Disallow: /privacy/
 
 Sitemap: https://ilsonmadang.netlify.app/sitemap.xml
 Sitemap: https://ilsonmadang.netlify.app/sitemap-fast.xml
